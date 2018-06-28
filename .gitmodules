@@ -175,3 +175,12 @@
 [submodule "libraries/Kaleidoscope-USB-Quirks"]
 	path = libraries/Kaleidoscope-USB-Quirks
 	url = https://github.com/keyboardio/Kaleidoscope-USB-Quirks
+[submodule "libraries/Kaleidoscope-ModifierLayers"]
+	path = libraries/Kaleidoscope-ModifierLayers
+	url = https://github.com/nikitakit/Kaleidoscope-ModifierLayers.git
+[submodule "libraries/Kaleidoscope-LEDEffect-DigitalRain"]
+	path = libraries/Kaleidoscope-LEDEffect-DigitalRain
+	url = https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain.git
+[submodule "libraries/Kaleidoscope-LED-Wavepool"]
+	path = libraries/Kaleidoscope-LED-Wavepool
+	url = https://github.com/ToyKeeper/Kaleidoscope-LED-Wavepool.git
