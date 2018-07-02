@@ -184,3 +184,6 @@
 [submodule "libraries/Kaleidoscope-LED-Wavepool"]
 	path = libraries/Kaleidoscope-LED-Wavepool
 	url = https://github.com/ToyKeeper/Kaleidoscope-LED-Wavepool.git
+[submodule "libraries/Kaleidoscope-CapsLock"]
+	path = libraries/Kaleidoscope-CapsLock
+	url = https://github.com/donfeduardo/Kaleidoscope-CapsLock.git
